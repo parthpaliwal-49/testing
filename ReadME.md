@@ -26,11 +26,11 @@ Open the `config.ini` file in a text editor and provide the necessary details:
 ```cmd
 sftp_ip = <your_sftp_server_ip>
 user = <your_username>
-password = <your_password_if_using_password_auth>
-ppk_path = <path_to_your_ppk_file_if_using_ppk_auth>
-source_dir = <path_to_your_data_files_folder>
-hotel_name = <your_hotel_name>
-file_type = <file_format_e.g._csv,zip,txt>
+password = <your password if using password auth>
+ppk_path = <path to your ppk file if using ppk auth>
+source_dir = <path to your data files folder>
+hotel_name = <your hotel name>
+file_type = <file format e.g. csv,zip,txt>
 ```
 
 ### 3. Running the Batch Script
