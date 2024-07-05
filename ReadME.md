@@ -1,12 +1,12 @@
 # File Transfer from On-Premises Server to Google Cloud
 
-This guide provides a guidelines for securely migrating files from an on-premises server to Google Cloud. The migration script includes configuration settings, batch script files for password or PPK-based authentication, and the necessary tools.
+This document provides a guideline for securely migrating files from an on-premises server to SFTP Location. The migration script includes configuration settings, batch script files for password or PPK-based authentication, and the necessary tools.
 
 ## Prerequisites
 
 Before you start, ensure you have the following:
 - Access to the on-premises server where the files are located.
-- Google Cloud storage setup and SFTP credentials.
+- SFTP credentials.
 - A zip file containing the migration script.
 
 ## Step-by-Step Process
@@ -22,12 +22,12 @@ Before you start, ensure you have the following:
 
 ### 2. Download PSFTP Client
 
-You need to download the `psftp.exe` (an SFTP client, i.e., general file transfer sessions much like FTP):
+You need to download the `psftp.exe`(an SFTP client, i.e., general file transfer sessions much like FTP) depending upon your processor type:
 
 - 32-bit: [psftp.exe (via FTP)](https://puttygen.com/download.php?val=22)
 - 64-bit: [psftp.exe (via FTP)](https://puttygen.com/download.php?val=25)
 
-Move the `psftp.exe` to the folder with the batch scripts.
+Copy the `psftp.exe` to the above extracted folder.
 
 ### 3. Configure `config.ini`
 
@@ -36,13 +36,15 @@ Open the `config.ini` file in a text editor and provide the necessary details:
 sftp_ip = <your_sftp_server_ip>
 user = <your_username>
 password = <your password if using password auth>
-ppk_path = <path to your ppk file if using ppk auth>
+ppk_path = <path to your ppk file if using ppk auth>(Either password or PPK should be provided)
 source_dir = <path to your data files folder>
 hotel_name = <your hotel name>
 file_type = <file format e.g. csv,zip,txt>
 ```
 
 ### 4. Running the Batch Script
+
+# Add How to do using Schedular
 
 Based on your authentication method (password or PPK), run the appropriate batch script:
 
