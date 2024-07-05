@@ -44,7 +44,15 @@ file_type = <file format e.g. csv,zip,txt>
 
 ### 4. Running the Batch Script
 
-# Add How to do using Schedular
+### Add How to do using Schedular
+![alt text](step1.jpg)
+![alt text](step2.jpg)
+![alt text](step3.jpg)
+![alt text](step4.jpg)
+![alt text](step5.jpg)
+![alt text](step6.jpg)
+![alt text](step7.jpg)
+![alt text](step8.jpg)
 
 Based on your authentication method (password or PPK), run the appropriate batch script:
 
