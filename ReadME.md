@@ -44,7 +44,7 @@ file_type = <file format e.g. csv,zip,txt>
 
 ### 4. Running the Batch Script
 
-### Add How to do using Schedular
+### Running the Batch Script Task Schedular
 - Look for Task Schedular in your windows machine.
 
 ![step1](https://github.com/parthpaliwal-49/testing/assets/146166132/86b21c8a-9027-4f32-9590-b3328b2da5fe)
@@ -104,7 +104,7 @@ Now your task is scheduled for the provided time and you can see it in Active Ta
 
 
 
-
+### Running the Batch Script Manually
 Based on your authentication method (password or PPK), run the appropriate batch script:
 
 #### Password-Based Authentication
