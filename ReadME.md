@@ -1,6 +1,6 @@
 # File Transfer from On-Premises Server to Google Cloud
 
-This guide provides a detailed process for securely migrating files from an on-premises server to Google Cloud. The migration script includes configuration settings, batch script files for password or PPK-based authentication, and the necessary tools.
+This guide provides a guidelines for securely migrating files from an on-premises server to Google Cloud. The migration script includes configuration settings, batch script files for password or PPK-based authentication, and the necessary tools.
 
 ## Prerequisites
 
