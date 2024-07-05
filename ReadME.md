@@ -18,9 +18,18 @@ Before you start, ensure you have the following:
     - `config.ini` (configuration file)
     - `file_transfer_pwd.bat` (batch script for password-based authentication)
     - `file_transfer_ppk.bat` (batch script for PPK-based authentication)
-    - `psftp.exe` (PSFTP application for file transfer)
 
-### 2. Configure `config.ini`
+
+### 2. Download PSFTP Client
+
+You need to download the `psftp.exe` (an SFTP client, i.e., general file transfer sessions much like FTP):
+
+- 32-bit: [psftp.exe (via FTP)](https://puttygen.com/download.php?val=22)
+- 64-bit: [psftp.exe (via FTP)](https://puttygen.com/download.php?val=25)
+
+Move the `psftp.exe` to the folder with the batch scripts.
+
+### 3. Configure `config.ini`
 
 Open the `config.ini` file in a text editor and provide the necessary details:
 ```cmd
@@ -33,7 +42,7 @@ hotel_name = <your hotel name>
 file_type = <file format e.g. csv,zip,txt>
 ```
 
-### 3. Running the Batch Script
+### 4. Running the Batch Script
 
 Based on your authentication method (password or PPK), run the appropriate batch script:
 
