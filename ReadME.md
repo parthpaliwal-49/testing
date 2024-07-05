@@ -46,48 +46,57 @@ file_type = <file format e.g. csv,zip,txt>
 
 ### Add How to do using Schedular
 - Look for Task Schedular in your windows machine.
+
 ![step1](https://github.com/parthpaliwal-49/testing/assets/146166132/86b21c8a-9027-4f32-9590-b3328b2da5fe)
 
 
 
-Once Task Schedular is opened click on Create Task option to create a new task.
+- Once Task Schedular is opened click on Create Task option to create a new task.
+  
 ![step2](https://github.com/parthpaliwal-49/testing/assets/146166132/675d0e39-562b-4c7d-ac9a-2705d347f13a)
 
 
 
-Once you create a task in general configuration  give name to the task.
+- Once you create a task in general configuration  give name to the task.
+  
 ![step3](https://github.com/parthpaliwal-49/testing/assets/146166132/37ac0b88-324b-4f88-bafe-a6eaa5750bb4)
 
 
 
-After giving name also select user login settings and OS version for the task accordingly.
+- After giving name also select user login settings and OS version for the task accordingly.
+  
 ![step4](https://github.com/parthpaliwal-49/testing/assets/146166132/f7358350-651b-4f57-a15e-21df7253c43f)
 
 
 
-Now select Triggers configuration and click on New.
+- Now select Triggers configuration and click on New.
+
 ![step5](https://github.com/parthpaliwal-49/testing/assets/146166132/293d2222-aa1c-4487-920b-a5400f1961f8)
 
 
 
-Choose when do you you want to run the task and do not forget to click on Enabled on bottom is not selected already.
+- Choose when do you you want to run the task and do not forget to click on Enabled on bottom is not selected already.
+  
 ![step6](https://github.com/parthpaliwal-49/testing/assets/146166132/c9067412-7b39-4c37-8a2b-2ef07b49706c)
 
 
 
-Select Actions configuration section and click on New.
+- Select Actions configuration section and click on New.
+  
 ![step7](https://github.com/parthpaliwal-49/testing/assets/146166132/077cabc2-2d16-4227-94fd-72e9e1a6c522)
 
 
 
-In Action select Start a program and give the path to the batch script of your choice in Program/Script option.
+- In Action select Start a program and give the path to the batch script of your choice in Program/Script option.
 Also do not forget to add the path to the Script folder in "Start in(Optional) configuration"
+
 ![step8](https://github.com/parthpaliwal-49/testing/assets/146166132/c45bc9be-d40c-496b-be53-dfb9c8ee1958)
 
 
 
-Click OK for Task Configuration and also for the Task.
+- Click OK for Task Configuration and also for the Task.
 Now your task is scheduled for the provided time and you can see it in Active Tasks
+
 ![step9](https://github.com/parthpaliwal-49/testing/assets/146166132/c5bf5cee-221e-421c-a18a-f019a4e900de)
 
 
