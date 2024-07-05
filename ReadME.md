@@ -45,14 +45,18 @@ file_type = <file format e.g. csv,zip,txt>
 ### 4. Running the Batch Script
 
 ### Add How to do using Schedular
-![alt text](step1.jpg)
-![alt text](step2.jpg)
-![alt text](step3.jpg)
-![alt text](step4.jpg)
-![alt text](step5.jpg)
-![alt text](step6.jpg)
-![alt text](step7.jpg)
-![alt text](step8.jpg)
+![step1](https://github.com/parthpaliwal-49/testing/assets/146166132/48173e47-02a8-4e9d-be75-5445e426f57d)
+![step2](https://github.com/parthpaliwal-49/testing/assets/146166132/675d0e39-562b-4c7d-ac9a-2705d347f13a)
+![step3](https://github.com/parthpaliwal-49/testing/assets/146166132/37ac0b88-324b-4f88-bafe-a6eaa5750bb4)
+![step4](https://github.com/parthpaliwal-49/testing/assets/146166132/56aff4ec-dcfb-40fc-adc3-5e7b39899216)
+![step5](https://github.com/parthpaliwal-49/testing/assets/146166132/293d2222-aa1c-4487-920b-a5400f1961f8)
+![step6](https://github.com/parthpaliwal-49/testing/assets/146166132/c9067412-7b39-4c37-8a2b-2ef07b49706c)
+![step7](https://github.com/parthpaliwal-49/testing/assets/146166132/077cabc2-2d16-4227-94fd-72e9e1a6c522)
+![step8](https://github.com/parthpaliwal-49/testing/assets/146166132/c45bc9be-d40c-496b-be53-dfb9c8ee1958)
+
+
+
+
 
 Based on your authentication method (password or PPK), run the appropriate batch script:
 
