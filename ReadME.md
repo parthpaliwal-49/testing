@@ -57,7 +57,7 @@ file_type = <file format e.g. csv,zip,txt>
 
 
 
-- Once you create a task in general configuration  give name to the task.
+- In general configuration give name to the task.
   
 ![step3](https://github.com/parthpaliwal-49/testing/assets/146166132/37ac0b88-324b-4f88-bafe-a6eaa5750bb4)
 
@@ -65,7 +65,8 @@ file_type = <file format e.g. csv,zip,txt>
 
 - After giving name also select user login settings and OS version for the task accordingly.
   
-![step4](https://github.com/parthpaliwal-49/testing/assets/146166132/f7358350-651b-4f57-a15e-21df7253c43f)
+![step4](https://github.com/parthpaliwal-49/testing/assets/146166132/b96ff33b-a725-41df-87d5-4ead98a41f09)
+
 
 
 
